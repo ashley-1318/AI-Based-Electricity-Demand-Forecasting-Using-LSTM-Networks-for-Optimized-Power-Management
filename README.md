@@ -78,7 +78,6 @@ The model requires the following datasets for training:
     python src/forecast.py --horizon 48
     ```
 
-## 📁 Project Structure
 ## 🔮 Future Scope
 
 Potential enhancements for this project include:
